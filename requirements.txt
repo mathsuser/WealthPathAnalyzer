@@ -1,0 +1,7 @@
+# Requirements for WealthPathAnalyzer
+# Note: To download rates series from FRED, you need the 'fredapi' package and a valid FRED API key.
+
+pandas
+numpy
+requests
+fredapi
